@@ -35,5 +35,5 @@ tunnel=160
 s=45
 speed=45000/3600
 distance=340+160
-time=distance/speed
+time=distance/speed 
 print("time required to cross a tunnel is ",time)
